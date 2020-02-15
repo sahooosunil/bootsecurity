@@ -1,0 +1,7 @@
+
+squid:UselessImportCheck	"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8†ÒÅÂõ-HäRMINORZ
+CODE_SMELL
+ysquid:CallToDeprecatedMethod";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰öHÕRMINORZ
+CODE_SMELL
+¦squid:UselessImportCheck"eRemove this unused import 'org.springframework.security.config.annotation.web.builders.HttpSecurity'.(ƒµ‹Š8ØñÏÂõ-HëRMINORZ
+CODE_SMELL

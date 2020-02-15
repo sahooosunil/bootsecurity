@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="securityFull"/>
+<aop-project name="springSecurity-facebook-login"/>
+<aop-project name="spring-security-jpa"/>
+<aop-project name="spring-security-jwt"/>
+</aop-reference-model>
